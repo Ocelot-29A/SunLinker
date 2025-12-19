@@ -145,7 +145,7 @@ export default function App() {
       {/* Menu Bar */}
       <AppBar position="static" elevation={1}>
         <Toolbar variant="dense">
-          <Typography sx={{ flexGrow: 1 }}>StrataGraph</Typography>
+          <Typography sx={{ flexGrow: 1 }}>SunLinker</Typography>
           <Button color="inherit" size="small" onClick={createProject}>Create</Button>
           <Button color="inherit" size="small" onClick={openProject}>Open</Button>
           <Button color="inherit" size="small">Save</Button>

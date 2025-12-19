@@ -142,7 +142,7 @@ export default function App() {
    * ------------------------- */
   return (
     <Box height="100vh" display="flex" flexDirection="column">
-      {/* Menu Bar */}
+      {/* Menu Bar  */}
       <AppBar position="static" elevation={1}>
         <Toolbar variant="dense">
           <Typography sx={{ flexGrow: 1 }}>SunLinker</Typography>
